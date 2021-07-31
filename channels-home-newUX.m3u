@@ -1,0 +1,597 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2f5fe05a3fe2dcc59d4af8007fe5ebce" tvg-name="Rai 1" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1524653871?ticket=D44C4B70C03B84CA866A865842F8630212DA1853&profile=pass
+#EXTINF:-1 tvg-id="fd48855db47017e327712c55640d8130" tvg-name="Rai 2" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1569016061?ticket=0334B9F852D66D38E7FD252BDD6FD0AF5E262750&profile=pass
+#EXTINF:-1 tvg-id="1e660fc1d771dc7293682378ca8252e2" tvg-name="Rai 3 TGR Veneto" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1091528222?ticket=A9E0D2A307CAD320B079EE7B173A1BF90FCE5108&profile=pass
+#EXTINF:-1 tvg-id="7dee17fe0a08a83c141123cff998a170" tvg-name="Rete4" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2115497597?ticket=4DAFBDE8A68EEC3326472B0CD3DF8B3B81786A8D&profile=pass
+#EXTINF:-1 tvg-id="5fd57ff6192617021dc05002fb5a98b5" tvg-name="Rete4 HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1988089183?ticket=974039231465E43EA91998EBA33402728EB592B4&profile=pass
+#EXTINF:-1 tvg-id="b6ada6ed31f451aaa1db7f2067ce02fd" tvg-name="Canale5" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1839639990?ticket=9A266B99FC0ADA7E2D04D9733890EBDC75693869&profile=pass
+#EXTINF:-1 tvg-id="9ed89f945c1d9e3d5b00adee7eed2eee" tvg-name="Canale5 HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/346019998?ticket=726E64141B563CE75F5750BA83A543798923BC22&profile=pass
+#EXTINF:-1 tvg-id="bc887751ba55f2f4615b29ac5f2d4815" tvg-name="Italia1" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1366788284?ticket=B6485B397FE7BB446009415ABEDD95F8E94A007A&profile=pass
+#EXTINF:-1 tvg-id="b8d083585bfd1787c59551c2a66fa412" tvg-name="Italia1 HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1485033656?ticket=68247D7827FCC2E2FA8899CC11F015FF9C61797E&profile=pass
+#EXTINF:-1 tvg-id="77b3a5adf4ae20e7a5c1bb431fb5f8f9" tvg-name="LA7" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/765834103?ticket=9E2A28D55BF4C0FF7258E493F4056661B3AC2025&profile=pass
+#EXTINF:-1 tvg-id="c7baef553d37623eb7b531be45875e29" tvg-name="TV8" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1441774279?ticket=922C0F2FF7400436320DE94BCA888C277F33E578&profile=pass
+#EXTINF:-1 tvg-id="e1752c2b2261d2eee7d6b724df398611" tvg-name="NOVE" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/724334049?ticket=5DDE150052F2B1E7BD13D8D7479D581755DD45A7&profile=pass
+#EXTINF:-1 tvg-id="b8b4850c211eff9ef7a41b1f0c95551e" tvg-name="E'TV Rete 7" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/210089144?ticket=D5D593E0F511EA739A052B383A4FE56DE5AA017E&profile=pass
+#EXTINF:-1 tvg-id="6a985cb8860403261fca81fe25cfa2e7" tvg-name="TR 24" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/945592426?ticket=50A1A7E08CF2DCFEAC2898A4CF2F556D800CD0AB&profile=pass
+#EXTINF:-1 tvg-id="38987fbe61cd5597e3c056df7714eff8" tvg-name="VIDEOREGIONE" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1048549432?ticket=BC4F6585471CD2989F2E49FE4632C7F909440F5A&profile=pass
+#EXTINF:-1 tvg-id="c8946ef04b3a64b1bb1ad5f26842cf45" tvg-name="7 GOLD EMILIA ROMAGNA" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1886295240?ticket=30A11C8CFD78CE76570602B5EF1E8D593046F977&profile=pass
+#EXTINF:-1 tvg-id="b172671998075c8c6b0455c076d2a602" tvg-name="TELEROMAGNA" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/426209969?ticket=047465839836BD02321A0053FF0996247AA660F1&profile=pass
+#EXTINF:-1 tvg-id="7305dccf1bce0e846815067ead9b320d" tvg-name="TRC BO." group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1339819379?ticket=6A7755605AF0950E270501D6C73ABBFE9559D3AD&profile=pass
+#EXTINF:-1 tvg-id="355981ed7cd22166007489326c9cf121" tvg-name="Telestense" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1837193525?ticket=A178726DEADE71B0508B5B457576AA70755D9594&profile=pass
+#EXTINF:-1 tvg-id="9e13da7e89f38e4ae35c31758212135c" tvg-name="E'TV RETE 17" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2128221086?ticket=B253B3F179F8E992BB93ED5E688C744CD8FA1BEE&profile=pass
+#EXTINF:-1 tvg-id="3a7a7cd5c03e77a7e74801e80723befe" tvg-name="TELESANTERNO" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1434221114?ticket=94886F88EE6253608F674E230BB105620283F8ED&profile=pass
+#EXTINF:-1 tvg-id="75a389c781917e832b43674c81328b4d" tvg-name="TVQUI" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1200202613?ticket=E5275216F7A8137C1F327BDCE0A1408B9BBF263E&profile=pass
+#EXTINF:-1 tvg-id="438b65dea72181f77a5384627c1cf183" tvg-name="tvqui" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1583713091?ticket=36BE3268A1F58312CCEF803A406A547D7ABEBE6B&profile=pass
+#EXTINF:-1 tvg-id="ae853e46959e9c437ba24dc27e090a15" tvg-name="20 Mediaset" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1178502574?ticket=70F7CA3CED2371213310C1ABF8302E79BAFEE0C6&profile=pass
+#EXTINF:-1 tvg-id="aca6b0c20dbf4fb12623c3498da00e37" tvg-name="Rai 4" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1118873260?ticket=367DC8EB7910D1349BE7698AF836913469B2C899&profile=pass
+#EXTINF:-1 tvg-id="c9471c15cd49d18764fb2f9135f1fc0b" tvg-name="Iris" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/354174921?ticket=0E9B1904814362395D9DD089C4FA7136E2A10662&profile=pass
+#EXTINF:-1 tvg-id="7f959bda9fc715c3a94e92fe4d9cd77f" tvg-name="Rai 5" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1520145791?ticket=FA8924B401E1887DC03C925EF95B31B232726AF4&profile=pass
+#EXTINF:-1 tvg-id="a43fbba954741bd593714e12498c6da6" tvg-name="Rai Movie" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/700137380?ticket=7BB5C98609C2E700E93D0058D172536FC0F54646&profile=pass
+#EXTINF:-1 tvg-id="7b2201bef90f6acccd2d763091c34390" tvg-name="Rai Premium" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1040261755?ticket=B233F1EC1EA5318E4BC2206A095DAA3E12FCF1AC&profile=pass
+#EXTINF:-1 tvg-id="de7ea57e375628917330586c204d9404" tvg-name="Cielo" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2124775134?ticket=954DEFB9393D9A69DB5158E225FB275FC101BE36&profile=pass
+#EXTINF:-1 tvg-id="81ae439c3bdc5efdbdf5bde8c3cea7bd" tvg-name="Paramount Network" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/474197633?ticket=DF58AFCC6EE73C24F36D34ABA9E23BF3F6FABC28&profile=pass
+#EXTINF:-1 tvg-id="937b86485c09ca743c21e8bd0cea9bf8" tvg-name="TV2000" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1216773011?ticket=98FA1ACFD6C65FBEAE544A7D531CB4DCCB362367&profile=pass
+#EXTINF:-1 tvg-id="0677f52a24c0337c653b08bb3e4f04b8" tvg-name="LA7d" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/720729862?ticket=EF160C5270F61D2634F82B90FA058DCF040C2A9F&profile=pass
+#EXTINF:-1 tvg-id="278d7918a4d2953b8872e54b8fcd21cc" tvg-name="La 5" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/410619175?ticket=3CE96CCA7520C929D3C6718DDE4F46BB01BE859D&profile=pass
+#EXTINF:-1 tvg-id="77f17c36bf53f656557d37f2fd208876" tvg-name="Real Time" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/914157943?ticket=0CD1411CCF79DAB26F36F54CDCC327FE30F5556B&profile=pass
+#EXTINF:-1 tvg-id="ba82be72cda25e9d7101691ad58d98c5" tvg-name="QVC" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1925087930?ticket=7F20205CD459AF12B28F36E0AAEDC77AA31B362E&profile=pass
+#EXTINF:-1 tvg-id="8552a5c640f7171997c0fd385cb9e6c3" tvg-name="Food Network" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1185239685?ticket=33E4E486607B269641DCB9E1751168AD04EB836F&profile=pass
+#EXTINF:-1 tvg-id="0a8bbd22b66e8918388d6291a22cc793" tvg-name="Cine34" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/582847242?ticket=A207B3CD16763A40F9A182E1FC36D17EBEDABBB4&profile=pass
+#EXTINF:-1 tvg-id="06570f80b1c5899b1ca3d0b66eb2a996" tvg-name="Focus" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1005318?ticket=7BE285A39F55C1E02D9D2CCAD4A2672AC4E8860D&profile=pass
+#EXTINF:-1 tvg-id="b1711a6e0d93dbf9e06f521e3a7dc76f" tvg-name="RTL 102.5" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1847226801?ticket=C392F7F2CF0507CAE793F718EC9ECF2653D220B5&profile=pass
+#EXTINF:-1 tvg-id="fd44f990a8db7089e963558207cb0339" tvg-name="GM24.IT" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/284771581?ticket=5AA753FC68E8232D75D924C3552E1F2A17A3114A&profile=pass
+#EXTINF:-1 tvg-id="c27446d1716dfd214fe235ddedd2ece9" tvg-name="GIALLO" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1363571906?ticket=313C610291D782F8B1019AF029D91351B1D1E9B8&profile=pass
+#EXTINF:-1 tvg-id="ddbffb32dfb77b3b2d9b9aa7c20af98a" tvg-name="TOPcrime" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/855359453?ticket=E2EFDCB91A201FAC38E3B768CA20D0F85180B888&profile=pass
+#EXTINF:-1 tvg-id="8c053fca08934c7e22ec257a56d80d0c" tvg-name="Boing" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1245644172?ticket=36945BC3C613812ED141BDF524E89F219DC88B93&profile=pass
+#EXTINF:-1 tvg-id="c9961e8e2a9315f2366ce57d63f9978b" tvg-name="K2" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/236885705?ticket=DAF539CA50FCB0EE9F466B52E85614462706DB4A&profile=pass
+#EXTINF:-1 tvg-id="921edcb36e56bff6a960f0b250742a4a" tvg-name="Rai Gulp" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/870063762?ticket=9A2921584EBDE9974324E58EE631A8B271618172&profile=pass
+#EXTINF:-1 tvg-id="e031fed34c7b014a075fb932ba0afcbb" tvg-name="Rai YoYo" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1409167840?ticket=661762A199A6862ED7F17171476426213992BFD4&profile=pass
+#EXTINF:-1 tvg-id="b05fcf91f0ef59ac2d880b63ae597330" tvg-name="frisbee" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/298803120?ticket=363C67856D9339D200CFBF4C15DD6FAC7C444BEC&profile=pass
+#EXTINF:-1 tvg-id="6539d2810b87c4746dbf39302076f728" tvg-name="Boing Plus" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/30554469?ticket=DCFF0075A925D16BDD9E28F4993D44003CE66ED8&profile=pass
+#EXTINF:-1 tvg-id="b3d2cba4803b2546d63cf98dab51f682" tvg-name="Cartoonito" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/617337523?ticket=FAE3A165C684B8929DA64F9353A179FE24F770BA&profile=pass
+#EXTINF:-1 tvg-id="8c4018ffed5b707409edc4e5e0dad7b2" tvg-name="Super!" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2132295820?ticket=4EED37917425DF0F0DEAC922D9C3110B39B9C546&profile=pass
+#EXTINF:-1 tvg-id="dee0dad72d9b76d4e1bf5b2e25a35a44" tvg-name="Rai News 24" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1473962206?ticket=3E993F25FBEE6E8EDBCF3874D3FDF9D82E297C60&profile=pass
+#EXTINF:-1 tvg-id="c18a2027ab3bf31463b3bf43ca080a26" tvg-name="Spike" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/656444097?ticket=D90F71AD6EC3BF6C5EF7A2A0E1A8F490DF06E011&profile=pass
+#EXTINF:-1 tvg-id="51553ddf11e0d5ce60f1760a1decf585" tvg-name="Sky TG24" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1597855057?ticket=2CB598CF876C789B5AD7FA3B0D7F7E79AE9E683A&profile=pass
+#EXTINF:-1 tvg-id="6b086e359789ef9369aeea33cb8877e9" tvg-name="TGCOM24" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/896403563?ticket=40D5B158A55C30BFF01E02297F2EA22883FE4DF9&profile=pass
+#EXTINF:-1 tvg-id="07d79d2aa4c8cfce0d0cf65514b5321c" tvg-name="DMAX" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/714987271?ticket=DD77D6210310286EEFBAA4957908FFAB4CBE1C5C&profile=pass
+#EXTINF:-1 tvg-id="d1cbffff14bdd86cdfac139ed4e6c4d3" tvg-name="ITALIA 53" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2147470289?ticket=4377359112B6AE573DE7A5A7C21CF3F8194BD67D&profile=pass
+#EXTINF:-1 tvg-id="cb51b6b4c6d11d07ab8c64b8be52000d" tvg-name="Rai Storia" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/884363723?ticket=8B2C809BFE2262D9427EF6ED2653E34791A16885&profile=pass
+#EXTINF:-1 tvg-id="c1ce0423032e07cc506b7737f6ca3aa1" tvg-name="Mediaset Extra" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/587517633?ticket=6D42540810741ACA56E1457471A82B96A9E2D074&profile=pass
+#EXTINF:-1 tvg-id="4629305bcb178f42fb3a2adf6dde2fcf" tvg-name="HGTV - Home&Garden" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1529882950?ticket=26CEB09E01A91E4E3906B4A4635595D60A0061DC&profile=pass
+#EXTINF:-1 tvg-id="5526bec75a8ded7a767f7365aecc3e13" tvg-name="Rai Sport" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1203643989?ticket=07B2C167EFBB972E8A08F93D976BF4684D37EFBD&profile=pass
+#EXTINF:-1 tvg-id="02604cd7c8972cc10f7d127bfb73037d" tvg-name="Motor Trend - Provvisorio" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1464623106?ticket=4463DE005F05BE3CC21B59D83B524093C93BB274&profile=pass
+#EXTINF:-1 tvg-id="8417aa9ea58b546a7cf4294197014be4" tvg-name="Sportitalia" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/514463620?ticket=058AA02C59C66EDFF7217A548515E5EBD0311645&profile=pass
+#EXTINF:-1 tvg-id="7eaa3ae7b0c0ad54e69ec4b5cb5ede68" tvg-name="CANALE 61" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1731897982?ticket=8641FBED541EB932F9C91D028EF1B69D72F2D602&profile=pass
+#EXTINF:-1 tvg-id="3d86b06e43c2f27577ef34f0136243e4" tvg-name="DONNA SPORT TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1857062461?ticket=CA0161AE953E3698FE3311A0576B28B61498EE62&profile=pass
+#EXTINF:-1 tvg-id="d9a3713ffc4c40524d090e3ffff39d58" tvg-name="CANALE 63" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1064412121?ticket=C3526688A9D7D6A3C7E815861847265B854D614F&profile=pass
+#EXTINF:-1 tvg-id="70569fce079aa28d7fcd4e4e3c8ccc1a" tvg-name="SUPERTENNIS" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1319065200?ticket=2AF66DB1601B778BA7DD820A3E5DB7472B97C754&profile=pass
+#EXTINF:-1 tvg-id="68027743022622987e77687d6096a105" tvg-name="ALMA TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1131872872?ticket=AE9ECB57D1FF2164A407A42F9AEAD45119B04BA5&profile=pass
+#EXTINF:-1 tvg-id="21a752195faf796b541b10fb5bf1fc48" tvg-name="Mediaset Italia Due" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/424847137?ticket=F38851A3F1330C2ECBDAEFE871DD856F2C237371&profile=pass
+#EXTINF:-1 tvg-id="d3e044fdb11e8113e28c3da47ad00424" tvg-name="VH1" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2101666003?ticket=CC1B59CC5467030AA3E11F370D5D1B40C331938D&profile=pass
+#EXTINF:-1 tvg-id="3ddf126954be6c020d05b5e870e85721" tvg-name="BOM Channel" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1762844477?ticket=1068B558FEA834402292B73D6711320E37A6C371&profile=pass
+#EXTINF:-1 tvg-id="a891654ab6fc8d2dbbf99aeb88d4ca49" tvg-name="Deejay TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1248170408?ticket=9B10D3AFED639CC0CC158E8BF0095D9EBEACFA46&profile=pass
+#EXTINF:-1 tvg-id="28f86da67dcdba85422e4b7f3b5c23e7" tvg-name="RadioItaliaTV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/644741160?ticket=28907CE098E173DD39DA3184AC76F8A93657B38B&profile=pass
+#EXTINF:-1 tvg-id="67253fcfc38d71e3e839c94ffa602685" tvg-name="SAN MARINO RTV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1329538407?ticket=3243C4C3C4EAEE6A32EAFE77338C8BB67CDB01F6&profile=pass
+#EXTINF:-1 tvg-id="cb5f67f4da0913498bf7cc2a7166b02b" tvg-name="TELEROMAGNA NEWS" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1952931787?ticket=50C9549940C781FED3AD5316DBBFBA502AD72E8E&profile=pass
+#EXTINF:-1 tvg-id="65bfe22bd6d0187f3b3f87f152171509" tvg-name="TELECAMPIONE" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/736280421?ticket=1F59C700B7036CEAC4064382559FA957F4E71352&profile=pass
+#EXTINF:-1 tvg-id="c65a05e3a36b3679b4a41f243211c8d1" tvg-name="LA 9 NORD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1661295302?ticket=7094A612C40345E2B2E22F3337F457E52D0CAAAB&profile=pass
+#EXTINF:-1 tvg-id="ef5dc7b62931e5e3c05d00fac6bffe31" tvg-name="DOMUS" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/919035375?ticket=AA28C091B705418A9B65BF83DDB0D39E3DED70AF&profile=pass
+#EXTINF:-1 tvg-id="6a58157ba4caffed20212be71a0f5681" tvg-name="STUDIO1" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2064996458?ticket=C387B1B32E35CF47F15A6804B3BFEAB761005859&profile=pass
+#EXTINF:-1 tvg-id="1a5c19a67137a5553e71640c1003983c" tvg-name="CREMONA1" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/639196186?ticket=FCA57B70CC0FA42C50B899E6D0E1E274AD4DB745&profile=pass
+#EXTINF:-1 tvg-id="3cdc40bb6b63146a8f028676f8f76c80" tvg-name="CANALE ITALIA 83" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/994106428?ticket=571BA77FFF356847153E572E1AF6181159A1C5F5&profile=pass
+#EXTINF:-1 tvg-id="fb2f548ad614637d9a9ef5fdcad7cb1b" tvg-name="CANALE ITALIA 84" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/173289467?ticket=F4A00FE6269FCB4D964C3C84FFDF6ACDC1E13820&profile=pass
+#EXTINF:-1 tvg-id="f09fbe946492f414177f2a0d5d48622c" tvg-name="TVB STUDIO 85" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/348037104?ticket=BA5A0A7922DA5BF4770030C8B5937952CD896DDF&profile=pass
+#EXTINF:-1 tvg-id="6f80c384aead5a8beed591bbeb2aafae" tvg-name="RETE 8 VGA" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/79921263?ticket=81C55EB896C52ACCDA48B7EE16BF108A49AA88B8&profile=pass
+#EXTINF:-1 tvg-id="b164e80e791fe59d2a6e657855eca500" tvg-name="SAN MARINO RTV 4" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/250111153?ticket=595AC18CD25AADAAB2654180C7E88B9A5D71F17A&profile=pass
+#EXTINF:-1 tvg-id="3a3595ba3cc70d9d1bce2bbe4d76c45a" tvg-name="DITV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/982857018?ticket=3ED339DEF11553CCE4D442040ED5894AC53CBD63&profile=pass
+#EXTINF:-1 tvg-id="f61e06abcd625f4e74ebe7f3246330c5" tvg-name="DITV 92" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/721821430?ticket=9B637E6F1A1581251B25691C6B138D98E8320C37&profile=pass
+#EXTINF:-1 tvg-id="62225dac0a390bb16f5eded4d29c3230" tvg-name="SAN MARINO RTV SPORT" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/744301154?ticket=463227C76127007A95D275E035A3CAE78D8A80CC&profile=pass
+#EXTINF:-1 tvg-id="63bf76a5033075d745851d9c8dbe0621" tvg-name="TELEPACE" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/628539235?ticket=C8AB5CE5B490470DA461AD30B2924E1800266F0A&profile=pass
+#EXTINF:-1 tvg-id="99a7c75e12d6322fbac22c90143ce336" tvg-name="SAN MARINO RTV 2" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1590142873?ticket=8439A4C90477666C42EEA5979D4B970E73D90359&profile=pass
+#EXTINF:-1 tvg-id="a7c7ba357ede51973de4846242e8e78a" tvg-name="E'TV - 97" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/901433255?ticket=52869DD28D641D8BC6FCD80E44DD1583BFE8BA6C&profile=pass
+#EXTINF:-1 tvg-id="67a704867dc78c96b1da6936e1778b71" tvg-name="Nettuno TV." group-title="TV"
+http://192.168.200.1:9981/stream/channelid/100968295?ticket=A96F9FEDA0D46C0A619C398BE3A455939D1CAAAD&profile=pass
+#EXTINF:-1 tvg-id="b1d3324d579d404af661c03238e88b10" tvg-name="Test HEVC main10" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1295176625?ticket=A0B963FBC17982FF889ECC8FA9E18B9C43A14EBA&profile=pass
+#EXTINF:-1 tvg-id="c8c1dd4ab91df45f01bd3b78c18ad77b" tvg-name="Rai 3 TGR Emilia Romagna" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1256047048?ticket=1151AD8C68C8DD8A16B22EB6BA79DCE665D85FB5&profile=pass
+#EXTINF:-1 tvg-id="84a9b65a5bd78a53400efc5dadb4868e" tvg-name="Rete4" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1521920388?ticket=E3D328533570EF26C3883671F5C7B957A4254E26&profile=pass
+#EXTINF:-1 tvg-id="16d708f894995d401f95d27fc443d3aa" tvg-name="Canale5" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2013845270?ticket=F835BD5E7BCA344A7C1D98B9165E6ECDC017298D&profile=pass
+#EXTINF:-1 tvg-id="9e1f8a84cb78f61023e8482f4f69bebf" tvg-name="Italia1" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/76160926?ticket=ADB4ECD7B79683D3BB0A1274A9E71C1628C8AC70&profile=pass
+#EXTINF:-1 tvg-id="8f4d315386bef3a4d08b87f438c8a259" tvg-name="LA7" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1395740047?ticket=FC79325733B197A28F92A58D0A668EB857388F6D&profile=pass
+#EXTINF:-1 tvg-id="f15e20b608f64abd46b1cfb395090105" tvg-name="TV8" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/908091121?ticket=BB150626436CDAB4B2E7FDC789ECDD9301C4AD12&profile=pass
+#EXTINF:-1 tvg-id="e2f7f493361e83f05d4b0085977030ee" tvg-name="NOVE" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/334821346?ticket=28BA5F5D00D38C496624E62BE3DB36A1609C61AF&profile=pass
+#EXTINF:-1 tvg-id="a81d61f16aa50d57c5ee98e4a3212154" tvg-name="SUPER TV ROMAGNA" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1902189992?ticket=7B445648086717ADD43010BC7ECA70423FEEAB71&profile=pass
+#EXTINF:-1 tvg-id="b10719cae3df298d104911b8d7371f93" tvg-name="Super tv Emilia" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1243154353?ticket=40FD9A219566050910A4964CCA427895EA0AB88B&profile=pass
+#EXTINF:-1 tvg-id="57cc574ad3701624eada0f14ce6499a9" tvg-name="LepidaTVRTITV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1247267927?ticket=F9B14A4E566B7887074943AB91ACCCE5B34A4149&profile=pass
+#EXTINF:-1 tvg-id="ff8ed7e27b9fe245bde754e1ca145864" tvg-name="20 Mediaset" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1658294015?ticket=28A80A7EE120E081104759EAF4C881DA5ABC99C0&profile=pass
+#EXTINF:-1 tvg-id="1730d00d99bd894f8753e32d2c54cdda" tvg-name="ITALIA 121" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/231747607?ticket=4E95973BCBC87DD57428EC016596D80C9FDBED8D&profile=pass
+#EXTINF:-1 tvg-id="970f2f5bdf19a94135d2e0126025ffb0" tvg-name="Italia Channel" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1529810839?ticket=924914A6F9BFDB1E0447663DB9C15A7C0B72D4AC&profile=pass
+#EXTINF:-1 tvg-id="b3dd72abde244409a3861570252dd388" tvg-name="ARTE ITALIA 124" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/728948147?ticket=D4E9DE13DA4CE4126F422D7C947324BE0E4AEF8D&profile=pass
+#EXTINF:-1 tvg-id="d04026419071f150ff03641d8c131231" tvg-name="ARTE ITALIA 125" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1093026000?ticket=79CB530AAF9EC1056CABA940C5283B3F0DC80C61&profile=pass
+#EXTINF:-1 tvg-id="86e4652fe8f7b3e6ef50bb94e0bd8386" tvg-name="ITALIA 126" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/795206790?ticket=B2966EE6251947AF3F96A18403891698BF7D0DF5&profile=pass
+#EXTINF:-1 tvg-id="8c3a7a2c0054207766641ab08197c24f" tvg-name="ITALIA 127" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/746207884?ticket=B133093D49BE14750A6BD96A5A17BF0E1A6CF545&profile=pass
+#EXTINF:-1 tvg-id="aa07665ba3de8f1efcffb4d30eb5f066" tvg-name="GOLD TV ITALIA" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1533413290?ticket=28BCF1B36695F71682F98AD7B8B29CA5FE499A4D&profile=pass
+#EXTINF:-1 tvg-id="42c0e347b98b746f24c04558ed3e194d" tvg-name="LA 4 ITALIA" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1206108226?ticket=28423190A4B4F6FB5EE7202C630DF8AE0D47DB33&profile=pass
+#EXTINF:-1 tvg-id="88983ffabd28d036c87820da2a911ef6" tvg-name="CHANNEL 24" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2050988168?ticket=5FBDDF47EA230ABE7027372284D130BFCB31E62E&profile=pass
+#EXTINF:-1 tvg-id="7a89d825ff6d9a6258649e8e964a20bc" tvg-name="RETE ITALIA" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/634947962?ticket=DB5DF7E906F15E2A99E3FC4A8785DC2029D812EB&profile=pass
+#EXTINF:-1 tvg-id="251af2c784891a275ce5ce8c810bf86d" tvg-name="LINEAGEM" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1207048741?ticket=74DE717BDC35C98FC1CF5C86ED808BE241DE9EA0&profile=pass
+#EXTINF:-1 tvg-id="11efd1c165241075bf852fb1f0951667" tvg-name="Juwelo" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1104277265?ticket=C6A835CDF4745564B2DADFDFB99B0F9CCB4E2EB1&profile=pass
+#EXTINF:-1 tvg-id="552424c89affd15813ab8cf738e1324e" tvg-name="ITALIA 134" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1210328149?ticket=4AC22E93D3CB9517FD69EF53162F62218A6D9C29&profile=pass
+#EXTINF:-1 tvg-id="82afd463f7c45068f8320bff9d6b5bbf" tvg-name="ITALIA 135" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1674882946?ticket=127065F660EDE987D6376E112934C75311EDD3A6&profile=pass
+#EXTINF:-1 tvg-id="da4f7123f5045354b0facf4fd3a9765d" tvg-name="ITALIA 136" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/594628570?ticket=AE648F70DED9804FBDC962A20988A7FE2967491F&profile=pass
+#EXTINF:-1 tvg-id="c26ea8b628799b2f588a7fcfaabf4f8e" tvg-name="INLINEA TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/917008066?ticket=E2E4B66E1B41AC0B8C483075F5E9B06FC2E1335E&profile=pass
+#EXTINF:-1 tvg-id="1e4cd390a1805b3ecf5d7133c2d6e348" tvg-name="AIR ITALIA" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/282283038?ticket=5B34651E6AD4CF65A5A138D5D4126CE8975A09B4&profile=pass
+#EXTINF:-1 tvg-id="fa9de130129eed8f83a20a007745bc92" tvg-name="DELUXE 139" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/820092410?ticket=4AAD60D4256D39802F2C7A9B727D495E8C8DB22B&profile=pass
+#EXTINF:-1 tvg-id="6331f1a19956e07a5ca1808a39e67d15" tvg-name="DELUXE_1" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/569454947?ticket=858B276216F360C19B8F46CAFA0410EAE295ECE6&profile=pass
+#EXTINF:-1 tvg-id="c23c14b5ce8650f458eb5f56c050f756" tvg-name="LINEA ITALIA" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/890518722?ticket=E1CDFB5EBE6EB76AE3C84E7DEF54EA189468F80B&profile=pass
+#EXTINF:-1 tvg-id="7ee0b167da32cb3ec735f888a047b379" tvg-name="ITALIA 141" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1739710590?ticket=D7814FF7F5630A99DDA044AC22265EE1ED97552D&profile=pass
+#EXTINF:-1 tvg-id="7d1a21b6e971d35fbfff07e1b3307205" tvg-name="ITALIA 142" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/908139133?ticket=B6E60B3411C23D234152ED27130D41C662A73AA6&profile=pass
+#EXTINF:-1 tvg-id="2a95818660d071df616901e99dcc729a" tvg-name="ITALIA 143" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/109155626?ticket=E573FF20BA8B5EFFF021F2C0B87C89F1D712CB66&profile=pass
+#EXTINF:-1 tvg-id="660c730038b7f99f08f0de4ccbaa08ef" tvg-name="ORLER TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/7539814?ticket=57789B7DA7A79874987688BBA2F8657C34877324&profile=pass
+#EXTINF:-1 tvg-id="ad95532280f41dbc19b0767d2dd81527" tvg-name="PADRE PIO TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/575903149?ticket=70167A9DD441BC460BFE11D448C2520B4147EF05&profile=pass
+#EXTINF:-1 tvg-id="4ef140f57a743f2634a90d3b69930637" tvg-name="Rai Scuola" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1967190350?ticket=5D49571D3C57963410281C03A33970A0CE10B641&profile=pass
+#EXTINF:-1 tvg-id="c0e4c0e2034af5e6cf880e2bc50e7072" tvg-name="FIRE TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1656808640?ticket=633FB671B8FC603F2517ECC8979A4C41E9506AB7&profile=pass
+#EXTINF:-1 tvg-id="c731c6fee29a384dcdd79a681335e4f7" tvg-name="ITALIA 148" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2126918087?ticket=A60AE948040A01050C5E5DDA2C3EADA11F36D575&profile=pass
+#EXTINF:-1 tvg-id="da76d17be0f4e92c018733f8100fe68d" tvg-name="ITALIA 150" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2077325018?ticket=1D1AB4309E21AA6FA239EDD06AB2F52B1820DE20&profile=pass
+#EXTINF:-1 tvg-id="c41f6f0c8851892f64143a14f8922390" tvg-name="MONDO CALCIO" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/208609220?ticket=9B2F72BD37A1400D3078F4A32F246D6506798B74&profile=pass
+#EXTINF:-1 tvg-id="e67c3c18f9cfb514de571cbea451f4dc" tvg-name="TV 153" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/406617318?ticket=105EB1B6AA28FD3D0C5C1EC4591BCFA541365C5A&profile=pass
+#EXTINF:-1 tvg-id="53a8b2ce881b1720115f1430a2867ed1" tvg-name="ITALIA 154" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1320331347?ticket=2FE845D40A583279C9304E602393BB8914152C7B&profile=pass
+#EXTINF:-1 tvg-id="d5164bf9c1fbb2f0424e911ba2be4a55" tvg-name="ITALIA 155" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2034964181?ticket=E3272E7D2E73F77B0FAFE14A8CB1D3D8CDDA3EEB&profile=pass
+#EXTINF:-1 tvg-id="96165846a13755e7b6a983263d17163c" tvg-name="ITALIA 156" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1180178070?ticket=5F50675DDB50F55C543E079303380683384F645A&profile=pass
+#EXTINF:-1 tvg-id="010ffc411223e95ea5bf1d8324d8c796" tvg-name="RADIO 105" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1107037953?ticket=7813C2BC7B724410C3D55A3C6DAC570DC6A0CB30&profile=pass
+#EXTINF:-1 tvg-id="0ca755c5c636f3d9351aa629413ec0d9" tvg-name="RADIO KISS KISS TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1163241228?ticket=11E1A9042E68BEBDEDB8398AC9967C05EECE52F1&profile=pass
+#EXTINF:-1 tvg-id="da1bded19f18a214f9a527d57234eacd" tvg-name="ITALIA 159" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1373510618?ticket=0E558C88A15270C0525707E8B35FE0FFEA1FE27E&profile=pass
+#EXTINF:-1 tvg-id="f1274f0c389ed4dab7461b2fb87a0811" tvg-name="ITALIA 160" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/206514161?ticket=FD4F761DB297307F164FFE5D735F4B61ED755A8D&profile=pass
+#EXTINF:-1 tvg-id="304fa2f16082801960bec9c1d45d4cdc" tvg-name="CANTANDO BALLANDO" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1906462512?ticket=461D1FA3578DFAA23D2381207EC3D9BB7E8D5E57&profile=pass
+#EXTINF:-1 tvg-id="4226f53ade38f0f033fce60ab03836bc" tvg-name="CANALE 162" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/989144642?ticket=AB6F8436994B1E933866FE752A011E0450E14BD9&profile=pass
+#EXTINF:-1 tvg-id="de3b1a3013bb4e8fdf1c7eb2e77554ef" tvg-name="GO-TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/807025630?ticket=7F62039B9E02401AA5F887B9190FC91539C6914C&profile=pass
+#EXTINF:-1 tvg-id="86dda357fedb6ae3fe89a503ef4446ae" tvg-name="ITALIA 53" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1470356870?ticket=A9F3EB880E3604602DCF3917D7D5503BB92B9E68&profile=pass
+#EXTINF:-1 tvg-id="0e6b60b330511b50123e847ba73ac807" tvg-name="CANALE 165" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/861956878?ticket=0C93AD22B4DE91819E4FD15375CA2E067A97D984&profile=pass
+#EXTINF:-1 tvg-id="49904433a54af5f8b9948b2560cb9b76" tvg-name="Mediatext.it" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/860131401?ticket=4604146A659A9F2608ED5C2385DE23F7DD1A7960&profile=pass
+#EXTINF:-1 tvg-id="8cdbf879ebab69e1c52e79bd7f8ddc76" tvg-name="R101 TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2046352268?ticket=AB81089F9F5731550800EBCBC08A76A005B04CF5&profile=pass
+#EXTINF:-1 tvg-id="c5c95b84d77c2e96fd095d6accb51266" tvg-name="TELE MODA 168" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/73124293?ticket=6D91DA466110106742CA90EA933A360A6872461E&profile=pass
+#EXTINF:-1 tvg-id="1e140305215191b93fd87e5803e7f261" tvg-name="LA 9" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/84087838?ticket=BAA93A9CAC312958555E19E440B13BE39ABCFC2B&profile=pass
+#EXTINF:-1 tvg-id="ca29b321ce506e959ee3052af9e1bc64" tvg-name="ITALIA TV 2" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/565389770?ticket=3BE5E6F203A7BB70B1F1D02A31DBA2B2945B3383&profile=pass
+#EXTINF:-1 tvg-id="dbb23234418059bd2c7b2913a07610ec" tvg-name="QTV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/875737819?ticket=03D07F712F711AC721BF58FBBBA5BA044617C36B&profile=pass
+#EXTINF:-1 tvg-id="7ab33be67ffc081c2787c508697c2467" tvg-name="STUDIO LIVE" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1715188602?ticket=44E0CC2CB1E0770C8E7899FDE00A487E8F4D656E&profile=pass
+#EXTINF:-1 tvg-id="7c104634c1ce3ab9517e2554d867105b" tvg-name="ITALIA TV 2" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/877006972?ticket=830E2D8018F1218263785A8798952FC6F1F8233C&profile=pass
+#EXTINF:-1 tvg-id="7276aeae25730bc3f787a2ee8fe1b81e" tvg-name="DONNA SHOPPING182" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/783185522?ticket=1C57B5D165BCD07EB2D572E363B74282DD6D659B&profile=pass
+#EXTINF:-1 tvg-id="809e854381f29d8e3084c9b376a2ab05" tvg-name="GALAXY TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1132830336?ticket=10AFEDB5609D758FEB0798BF9AF228A1FFAAA663&profile=pass
+#EXTINF:-1 tvg-id="f8700ba4ade7d54bd16eceff62acb92e" tvg-name="Telesanterno 3" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/604729592?ticket=B31E122479A852B25E32A104937A7B45AE2B190A&profile=pass
+#EXTINF:-1 tvg-id="f0c7791ae875e4b74837bf2ddbae30fd" tvg-name="12 TV PARMA." group-title="TV"
+http://192.168.200.1:9981/stream/channelid/444188656?ticket=0FB18DB08C0DD49667235822ED51AB560E0D053B&profile=pass
+#EXTINF:-1 tvg-id="42dfb1eb16512a1010350d934a20e344" tvg-name="Tele Ferrara Live" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1806819138?ticket=78E3F5960D0FBB153BC247B0EE4CFCC09A411F7E&profile=pass
+#EXTINF:-1 tvg-id="d70b0b08dc3c34af108f81ebbcec2790" tvg-name="Telesanterno2" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/134941655?ticket=314EE3BD3F791E262B09D01B5C410209E67A72E2&profile=pass
+#EXTINF:-1 tvg-id="671c6b11725f1abb68956c0975c8969e" tvg-name="TELEROMAGNA SPORT" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/292232295?ticket=E0E2A16629C60EA45E7BA378AC304F565C284CFA&profile=pass
+#EXTINF:-1 tvg-id="83861a83843a3b2e78d960683ffc9098" tvg-name="TELEROMAGNA MIA" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/52070019?ticket=5F53F47EBF4B59AF0A4E34DCBFC0C1C1D0FFA5F3&profile=pass
+#EXTINF:-1 tvg-id="84acf12ac6f418ea9515ee2b55258230" tvg-name="Test HEVC Main10" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/720481412?ticket=CA14568116A54910EB1B3CCD3A30A1259B1A8236&profile=pass
+#EXTINF:-1 tvg-id="51061685ddd4d5f34d144443670a571a" tvg-name="DITV 210" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/85329489?ticket=6C8385A116D2AF03E6259C7333DA5C20428A62C4&profile=pass
+#EXTINF:-1 tvg-id="4573a935d896979842e34c7f50a57274" tvg-name="TELECENTRO-ODEON" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/900297541?ticket=72BB765CC0965EE094F4DAAEB5039C690B1E1B65&profile=pass
+#EXTINF:-1 tvg-id="f9aaa4ac219bff5314bcdba7d936a5e2" tvg-name="ALICE" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/748989177?ticket=DD25DB7446AC236A08700F2FA373C673D1EEB3B8&profile=pass
+#EXTINF:-1 tvg-id="c13bb5bdca3916912fb60894e06038f1" tvg-name="MARCOPOLO" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1035287489?ticket=F44FD76147E23111C027644AAC1771EAE46596DD&profile=pass
+#EXTINF:-1 tvg-id="d79784b6a0f12958348ef25bda8f9dce" tvg-name="CASEDESIGNSTILI" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/914659287?ticket=3DCCA34F45616068BCA73C66438D7EE6F9B75A95&profile=pass
+#EXTINF:-1 tvg-id="4242992d88932605262bcd4d135b56ac" tvg-name="PopEconomy" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/765018690?ticket=A6E53112CA1AB51F2F9C3CAAA973721BCBBBE917&profile=pass
+#EXTINF:-1 tvg-id="17fa7c4edaaa2a2d9205160c0b40a732" tvg-name="TESORY CHANNEL" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1316813335?ticket=E6158594CDEEA40F4498FDEE73D3964BF959E2A2&profile=pass
+#EXTINF:-1 tvg-id="b48a74fa85ec7e7a920ffcfc703a57aa" tvg-name="LA7d" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2054458036?ticket=CAFD718CD5B604ADB501528A10C3D4FF402FF55B&profile=pass
+#EXTINF:-1 tvg-id="9cacfc59f3cc2d9a4a43a496b677ebf6" tvg-name="ILIKE.TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1509731484?ticket=5F1845DD91D6BD9B896B477E7EE70C7816E89786&profile=pass
+#EXTINF:-1 tvg-id="7a094f1c152f5e2296f1c2807a69ab1d" tvg-name="CANALE 232" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/474941818?ticket=8B0E194382F2D43929D9FFED1D16BEBD06BB6E0A&profile=pass
+#EXTINF:-1 tvg-id="4e9063b6679c317291b5de6d51e6f480" tvg-name="Entertainment Fact" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/912494670?ticket=7318BF909574C30F6E1C412BFCEEB5A3C20721FA&profile=pass
+#EXTINF:-1 tvg-id="4e01273f315c0ecbba8de9b8816a744a" tvg-name="CANALE 235" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1059520846?ticket=C7116691FE66388FD44E160CD5733DE9505E3DFF&profile=pass
+#EXTINF:-1 tvg-id="644274de854952eca3f6018f620e95a7" tvg-name="EnerJill" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1584677476?ticket=C5B518D0D529E15D1A341D3516DD901281C55898&profile=pass
+#EXTINF:-1 tvg-id="61efade577bdaf4c4785465e7e768f28" tvg-name="GENIUS 240" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1705897825?ticket=1ECD48C6C9B0DE8267E8F440FFBC76CF3A5F8AF4&profile=pass
+#EXTINF:-1 tvg-id="db3f2f653812219c706d16d58bc0feb9" tvg-name="FRANCE 24" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1697595355?ticket=29C6DC016B3113DBEB83F86FD05CA440BB0FA4AD&profile=pass
+#EXTINF:-1 tvg-id="311414397c11359d58a02f35d8e18b9a" tvg-name="LA242 CHINA TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/957617201?ticket=B0F4565CA14BAA00DB3AC80D76993E5763E3F0A9&profile=pass
+#EXTINF:-1 tvg-id="320567ecc8cb976aa01ecfa832cb27d9" tvg-name="TV 243" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1818690866?ticket=2915F0A52A36021F68375C629847A7F8993B426A&profile=pass
+#EXTINF:-1 tvg-id="5ecca91d9738331ce439ba2310ca22f0" tvg-name="Parole di Vita" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/497667166?ticket=4F2976E8DEE9815533BD3DAE317B31C4A9077A43&profile=pass
+#EXTINF:-1 tvg-id="41d5df23481ee30c1eb614b3afe6ee74" tvg-name="SFERA TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/601871681?ticket=4D5F9EDC9BC22CEE7E148C5E73D6D4D73232CA45&profile=pass
+#EXTINF:-1 tvg-id="fc8e702de29c90fa20961240ed11aa86" tvg-name="Pianeta Tv" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/762351356?ticket=E5E516628D7A7C4B387DF509699AAC5631B89A26&profile=pass
+#EXTINF:-1 tvg-id="0ad60d019f97dab39289a66373eecd9e" tvg-name="RADIO BIRIKINA TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/17683978?ticket=409A74C506BE54F8D14B823D7464F58CFE16E1FF&profile=pass
+#EXTINF:-1 tvg-id="53b7b7aa6288eb288fee60df88fb71ca" tvg-name="DONNASHOPPING" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/716683091?ticket=3398380EED20EB27E8219B7C35F7DADC177EC632&profile=pass
+#EXTINF:-1 tvg-id="f41c577b8e52a7251f4b0ed1758de44d" tvg-name="RADIO BRUNO" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2069306612?ticket=BCAA276BAD292492829EFF9AD781D6D50F3DE232&profile=pass
+#EXTINF:-1 tvg-id="ac607bcf53adfd7f28c6588236e857ae" tvg-name="VIRGIN RADIO" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1333485740?ticket=33ACB22D9470C1E77D37826BE384E587EBCFB3E8&profile=pass
+#EXTINF:-1 tvg-id="54cd279218d32f48cbcbb7e02b69fff5" tvg-name="RADIOFRECCIA" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/304598356?ticket=996CAE58D1D54BD11A9988479C9B6346C526F208&profile=pass
+#EXTINF:-1 tvg-id="bb4c9b7b631b922fe112a867b44adf5b" tvg-name="GIORNALE RADIO" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2073775291?ticket=933E65E40A01215BF5EFAA3FED72ECB2BF67C992&profile=pass
+#EXTINF:-1 tvg-id="dc97a00dc6b1969382133cc87b173f87" tvg-name="UNO MUSIC" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/228628444?ticket=DE5F48FAC1FBBBC34CBE8DD5BF7CF49EF39DC188&profile=pass
+#EXTINF:-1 tvg-id="8af872c509688b7247560f05ea40325b" tvg-name="CUSANO ITALIA TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1165162634?ticket=8CC376AA241DB08DD79B60E40C0214AF38AB0AE7&profile=pass
+#EXTINF:-1 tvg-id="09865c03ae5e411630e1cfebb18d9d8c" tvg-name="RDS Social TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/56395273?ticket=48D9524735F92098A1EB9EB6A1D3644014186181&profile=pass
+#EXTINF:-1 tvg-id="9302c431670f43f658a7eeeb4ef4f5d4" tvg-name="RADIO ZETA" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/834929299?ticket=C776428C2654CAEA4078FD3FEBF83283670E8F8D&profile=pass
+#EXTINF:-1 tvg-id="fb6a1765e1f05e2eab6f676e14e7fbb6" tvg-name="VH1" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1696033531?ticket=67B6C050FF5D28FFB7F7A2F8EA068891C1F227B0&profile=pass
+#EXTINF:-1 tvg-id="a01549a1ecfc326fb047ec98fc604c19" tvg-name="ZETA TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/558437792?ticket=5B294E2C8C766FCBF92387259A674F84A567F47E&profile=pass
+#EXTINF:-1 tvg-id="549a34e2570e7d1018a18002e48f90ab" tvg-name="MEDIANEWS - 292" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1647614548?ticket=1E785C77FE1F8B4B70E0D7835493BFDCA9525A13&profile=pass
+#EXTINF:-1 tvg-id="9709101483f5c2553de7323e2b6ee6cb" tvg-name="TELEREGGIO" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/336595351?ticket=2315ED2BA2EFC0B280356848CF6D7A8E54F06177&profile=pass
+#EXTINF:-1 tvg-id="ca1dcd2728c484c07165e0ef89bdcdf9" tvg-name="TELEREGGIO" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/667753930?ticket=41DC8C9C3671EF9EF6B00EA231A26B596DB59C45&profile=pass
+#EXTINF:-1 tvg-id="be41de40a20e35bd8e29dad5cad6439b" tvg-name="Telestense" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1088307646?ticket=A542A12057025B53641896D1581C40B1CE69F055&profile=pass
+#EXTINF:-1 tvg-id="b27af6a2cf14c4b8918de686f797df08" tvg-name="PREMIO LIVE" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/586578610?ticket=98278A16633002A8C256BBB2CE33099AEE2C5378&profile=pass
+#EXTINF:-1 tvg-id="a48e1cd47c69af4fa96ef2ad8d37f390" tvg-name="Sky Uno" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1411157668?ticket=3BE0D8C4010C4E4D10960A8802BA047CDF399491&profile=pass
+#EXTINF:-1 tvg-id="9ac95f332c7ed0ee01aab2341376b238" tvg-name="Sky Atlantic" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/861915546?ticket=75FC62622544DA236A426D77B0BCFE17DF5CD997&profile=pass
+#EXTINF:-1 tvg-id="7867a8236ffa3091dedb314e2a09efaf" tvg-name="FOX" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/598239096?ticket=02025593C5B1A1FF3FF1D8893C822EDD36C6E2F7&profile=pass
+#EXTINF:-1 tvg-id="0326756275270d72150d607287fb0a51" tvg-name="Premium Action" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1651844611?ticket=8CF9FA548B2BD13971355B9E789B3E54125AF24D&profile=pass
+#EXTINF:-1 tvg-id="f8a33007b3cb2ff4251365b6fef8104c" tvg-name="Premium Crime" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/120628216?ticket=399E69B0B527D77E4B351BAC33C1DBAEF0DA73B5&profile=pass
+#EXTINF:-1 tvg-id="42cce8468a855464ba51514dff6ea120" tvg-name="Premium Stories" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1189661762?ticket=7A03C1DF005DCF0F50B9123989FD448E133C2A6A&profile=pass
+#EXTINF:-1 tvg-id="7d275fe8456435778a812e4d65a30575" tvg-name="Premium Cinema 1" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1751066493?ticket=4BEC70F05A062430690CFD7924BC328818682892&profile=pass
+#EXTINF:-1 tvg-id="f85954e254c383466909ffb7219ff64e" tvg-name="Premium Cinema 2" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1649695224?ticket=6364DACAC16839129FC4B882C029B76626F6EE31&profile=pass
+#EXTINF:-1 tvg-id="ed037abe37b9b5bf7d6b03fe902f820a" tvg-name="Premium Cinema 3" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1048183789?ticket=C6250DCB4A3FD64AAB055587B768BD11BA5EA6A3&profile=pass
+#EXTINF:-1 tvg-id="979bf6e06642317af4311bcb321948b4" tvg-name="Sky Sport Uno HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1626774423?ticket=712437135029CD6A4BC9C45177D16371E50BA868&profile=pass
+#EXTINF:-1 tvg-id="9cd9387a2bc3cf9ca43dbb53125266b6" tvg-name="Sky Sport Calcio HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2050546076?ticket=23AE165AB19EB1E05B49488F379AB0675FCD3639&profile=pass
+#EXTINF:-1 tvg-id="fb617204622f014fcbadf99979bc0435" tvg-name="Sky Sport 24" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/74605051?ticket=AE2AB7232EC0D2D431CD1D3BA60C1480F0CD4184&profile=pass
+#EXTINF:-1 tvg-id="6ec8d794a0bfea5e1110baed97cf8d49" tvg-name="Sky Sport Uno" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/349685870?ticket=100594D0B758B681D8D5E93BBAD521F9A0F097AA&profile=pass
+#EXTINF:-1 tvg-id="de97e2dc27a1cd0b409cf56b5c8de872" tvg-name="Sky Sport Calcio" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1558353886?ticket=0F1FE4A0AC9C4130D93547B5245EE42E43320859&profile=pass
+#EXTINF:-1 tvg-id="9ea632a8109f268aba83475395871192" tvg-name="Sky Sport" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/674408094?ticket=7FAAFBE7BF87DD7295F6CAFAA080C64EC585CFE0&profile=pass
+#EXTINF:-1 tvg-id="f6c025d14e4bccd6daeffce1f0b68161" tvg-name="Sky Sport" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1361428726?ticket=E646920401FE970A71566ED6C72391BDA70883D5&profile=pass
+#EXTINF:-1 tvg-id="4ef72d2ca183ffa9fdddfbfeebcb7393" tvg-name="Sky Sport" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/741209934?ticket=1083BF7101084FEBD88A6F8DBCD6D921C1994631&profile=pass
+#EXTINF:-1 tvg-id="930a6222c4f9355be04177adb47900e0" tvg-name="Rai 1 HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/576850579?ticket=E9919CBBB412B7B50688C23087B6542B1D57A9E2&profile=pass
+#EXTINF:-1 tvg-id="4b5ff47b6ea869e96fde759c5363f6c3" tvg-name="Rete4 HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2079612747?ticket=74A870900BFB9565E667EA8EE9CB74A84C10B161&profile=pass
+#EXTINF:-1 tvg-id="36e69ef1c4c6bc5b367c39927d5019ff" tvg-name="Canale5 HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1906239030?ticket=36F40E6A96AF6A5D40FAF98FB40CC84D3FA4D827&profile=pass
+#EXTINF:-1 tvg-id="01309ceefae0a0d97acdd41d9b0ea5ec" tvg-name="Italia1 HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1855729665?ticket=6C1F7EA79B5C9F94FA0D28CB726C56CE97C8BAB3&profile=pass
+#EXTINF:-1 tvg-id="08cb8b096fc9d728919eb9f6755c9df1" tvg-name="LA7 HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/160156424?ticket=4A01E7CEF43993BB769F886ACF7266CDB874088D&profile=pass
+#EXTINF:-1 tvg-id="f294a6a7d06b90e4b6611aed53e26298" tvg-name="TV8" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/665228530?ticket=BC232F00FC637F4834C26076BCE0EB94AA9FD0E4&profile=pass
+#EXTINF:-1 tvg-id="9cfc0f4af6e38d8d593ee7025ab95054" tvg-name="NOVE" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1242561692?ticket=AB28541C0912ACD91937733E5B3AF5082D87B359&profile=pass
+#EXTINF:-1 tvg-id="ba81933bbede4d41fd80be1a0041213a" tvg-name="TELEROMAGNA HQ" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/999522746?ticket=A8AD5CBE7EC3D0F65ED51E5A9585C626B752CCDB&profile=pass
+#EXTINF:-1 tvg-id="2ab7561ef1b989fac0aacbabd363babe" tvg-name="20 Mediaset" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/508999466?ticket=A8BAF520C0DFC2F0AD30842CAD2FF6284E5C05CF&profile=pass
+#EXTINF:-1 tvg-id="9af9582b1712d5b8401d85abe6e19447" tvg-name="Iris" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/727251354?ticket=2541E48976CE0EA8AC6EF1B36BFD4CE72A0A766A&profile=pass
+#EXTINF:-1 tvg-id="19c54fda07a3757241921949ab19aefe" tvg-name="LA7d HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1515177241?ticket=ABD14E93425F204A35D86B16F8586270EB10A6CD&profile=pass
+#EXTINF:-1 tvg-id="f4ffa53991e5f1b5e1cd6bc6b797b189" tvg-name="La 5" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/967180276?ticket=1C86E55DA8C02A465F4ED679F1813B74D62B0EF0&profile=pass
+#EXTINF:-1 tvg-id="83589adfad155c2140a2e5cdff0749bd" tvg-name="Cine34" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1603950723?ticket=8375DD982FAAE683538ADBB609E425259633DCC1&profile=pass
+#EXTINF:-1 tvg-id="c845deba607f037f72573831dab2912f" tvg-name="Focus" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/987645384?ticket=CB2D4ACF4ECFAC497C7C65E51C9EB1064000F17C&profile=pass
+#EXTINF:-1 tvg-id="62ab7c8603ccb6cb39e8d0d3cedfe9d3" tvg-name="RTL 102.5 HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/108833634?ticket=F4BBBBA8988F3108D07C0A5C33D480AE59EC2000&profile=pass
+#EXTINF:-1 tvg-id="9bc2922bf3eeb11e8b369709f3f72574" tvg-name="GM24.IT HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/731038363?ticket=88C65271A1F9FB15DB8831F64A6EBD50922A0AE5&profile=pass
+#EXTINF:-1 tvg-id="f5f5ad7e756feaf190f933d8f8ddad16" tvg-name="TOPcrime" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2125329909?ticket=82040C592684A839F1713007EBDEBC1B91FD40ED&profile=pass
+#EXTINF:-1 tvg-id="66053c73bd466545a4ef299ee336253a" tvg-name="TGCOM24" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1933313382?ticket=E939A9499F235C287D08E2E5126AB953542804DC&profile=pass
+#EXTINF:-1 tvg-id="70d78041e1ece76870068bbc25cdc620" tvg-name="ITALIA 53" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1098962800?ticket=79307D95DFE69D763336100EDB58E1BE01B1A734&profile=pass
+#EXTINF:-1 tvg-id="3175e6e0ffbbe3416a293244969f4a45" tvg-name="RADIOFRECCIA HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1625716017?ticket=72593D6DA318F6FD68D785E96CB5EC01BCDE43F8&profile=pass
+#EXTINF:-1 tvg-id="07858b1f75e78342ccd8fa4d6f908c76" tvg-name="Mediaset Italia Due" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/529237255?ticket=88724D646B361FB331C51472C6DC486A68569C80&profile=pass
+#EXTINF:-1 tvg-id="0046c2cd9a8ed93e4746e9e7a02ba70d" tvg-name="Deejay TV HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1304577536?ticket=24876B540004ECCB3ACD6E3F085AFD55F3D34A1E&profile=pass
+#EXTINF:-1 tvg-id="897843befe025f0408a26dbaea2dc9ca" tvg-name="RadioItaliaTV HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1044609161?ticket=48EF69CD614955E0FA47ABA03C8350DBE583B0AC&profile=pass
+#EXTINF:-1 tvg-id="33f7445c8fb229abcf25c377b38b6ff0" tvg-name="SAN MARINO RTV HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1548023603?ticket=8BE53E7863B7CBC8FE9FE5739C7E67F6F8D8F6A4&profile=pass
+#EXTINF:-1 tvg-id="ae0672377aaebce03218d211541e5632" tvg-name="STUDIO1 HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/930219694?ticket=C16409292D0512DA2FDF7718E0716E6E80E350DC&profile=pass
+#EXTINF:-1 tvg-id="815852356a792ba4909b5d53b8299d5a" tvg-name="CREMONA1 HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/894589057?ticket=E525619B7300F0AE24D1B42DDF5D87EAFFF6F34E&profile=pass
+#EXTINF:-1 tvg-id="1d1895ecd6396d99dcad1dc3b222387b" tvg-name="CANALE ITALIA 83" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1821710365?ticket=D1A69CDD4A2A87D3A171A7E74AC5804EEB9C5328&profile=pass
+#EXTINF:-1 tvg-id="b66af94033b1071024666c987a6e245a" tvg-name="CANALE ITALIA 84" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1090087606?ticket=B647AE8CF52AAF97AE68B497A1B6EDDE591A9F4A&profile=pass
+#EXTINF:-1 tvg-id="c40e7a2025cde0752247c4c7032f206f" tvg-name="DITV HD" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/544870084?ticket=CF60142901AFEC8FAE2FE7CCC06D700C91DE6E00&profile=pass
+#EXTINF:-1 tvg-id="a9d2a71d4d8c3cae7e3a4b377ade0421" tvg-name="DITV 601" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/497537705?ticket=E698C1267CB10855769EB354B6F19B61AD079C4E&profile=pass
+#EXTINF:-1 tvg-id="73f33c9faa6cddf3d3bbffff49a8beeb" tvg-name="TELESANTERNO" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/524088179?ticket=160E45F7481BB535FFBADA57008D88CC46189FE2&profile=pass
+#EXTINF:-1 tvg-id="f64cd0166a3882d589353dd5de754d09" tvg-name="Teleromagna Adriatica" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/382749942?ticket=C9A1764772E4AA6BD42BC0362AA2A4E409963F58&profile=pass
+#EXTINF:-1 tvg-id="07c85ef4ec757824cb507194e8432995" tvg-name="TELEROMAGNA SHOP" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1952368647?ticket=9E6728EFD26D9564437C55DD3F2DE5B58BDEF697&profile=pass
+#EXTINF:-1 tvg-id="4f75ba908ab29f8c73bc740771f586a1" tvg-name="TRC." group-title="TV"
+http://192.168.200.1:9981/stream/channelid/280655183?ticket=B90A5B7B8696A54D7292DDF849B493973B3A0C6A&profile=pass
+#EXTINF:-1 tvg-id="52650ebf6ce00c3a195bbbbb9e08b129" tvg-name="SAN MARINO RTV 3" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1057908050?ticket=C359AA5DF1EF352ADB9F2510D75EA663461E7F39&profile=pass
+#EXTINF:-1 tvg-id="6b7b9f779393ec05110b58887a404414" tvg-name="MEDIANEWS" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2006940523?ticket=67F6E3DF9663C2FB0449FED647FF671F2790D5A0&profile=pass
+#EXTINF:-1 tvg-id="d06d857f4b2f8639badc43c24364adac" tvg-name="E'TV Rete 7." group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2139450832?ticket=ECE895DA6E282CC5EB3BB24E1F56B6A695A32056&profile=pass
+#EXTINF:-1 tvg-id="b678de6f3d3e9ca2d55aab949f6fe85b" tvg-name="E'TV Rete 7" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1876850870?ticket=FDE2859D6B878571DCA0744EF804DDC68409AF82&profile=pass
+#EXTINF:-1 tvg-id="cc44f3a336bc362a8d583cb9d4db0968" tvg-name="MEDIANEWS" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/603145420?ticket=FBD6971C041E68AA8B38734DFF4F2E6B6A380D11&profile=pass
+#EXTINF:-1 tvg-id="54be795cadce7ece7c87bb1871e0bb5a" tvg-name="Azzurra TV Italia" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1551482452?ticket=1C46EEDB1C0DBD29AA60A7BA55E5F515FDB9AD44&profile=pass
+#EXTINF:-1 tvg-id="875f757165950d9ce1f521d7083aad3d" tvg-name="12 TV PARMA." group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1903517575?ticket=A1DD7AE5ED0AD5B15C6153725A48F4BE67DC14C3&profile=pass
+#EXTINF:-1 tvg-id="3e5a2c41a567f0a62397d52bd6b2304f" tvg-name="Teleravenna2" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1093425726?ticket=F46EF7807C76D47963DFD7969B2A11EB58CA3C0B&profile=pass
+#EXTINF:-1 tvg-id="3184ab6113dfa486fbe1e045dfb17c83" tvg-name="Radio Italia Vision" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1638630449?ticket=0A88F1EB3503A828B92E105A4B7EEACC285E6415&profile=pass
+#EXTINF:-1 tvg-id="44e9d043772b2e7d62f012ac945ce11b" tvg-name="TELEROMAGNA INFO" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1137764676?ticket=D978D5CA7874C40944730CFA5E36BD7C7118FEC6&profile=pass
+#EXTINF:-1 tvg-id="e773091d77aeff080616cade51ced1c9" tvg-name="PRIMAFREE" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/487158759?ticket=605DE16B853A0EBF1733668A3EE544EB8041938A&profile=pass
+#EXTINF:-1 tvg-id="5a23f08d24b5f7c6bfa9e92f67ab0e31" tvg-name="Radio Studio Delta TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/233841498?ticket=227854381C1A8E36196D828DB00FDD329217393E&profile=pass
+#EXTINF:-1 tvg-id="a51b4d5e1874affd319ffedd6cd2359f" tvg-name="Giovanni paolo TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1582111653?ticket=45CA012366B55F0583DCC22863A715EBCBE60285&profile=pass
+#EXTINF:-1 tvg-id="ac67c88013b209509000285b615aeb21" tvg-name="RADIO BRUNO TV" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/13133740?ticket=1DFD47BF21AA5417E9B113DEC9EAE310543FEE18&profile=pass
+#EXTINF:-1 tvg-id="151f95fc72fb46660e0de6c5fde9a965" tvg-name="R Italia SMI" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2090147605?ticket=FA8459BA03D1A59A6444A388656CCC1EC04DFD4D&profile=pass
+#EXTINF:-1 tvg-id="70ac824ac7a279dbac8c7d05b00308f3" tvg-name="Radio Capital" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1250077808?ticket=C60005DE21DDB1C9C3ADB437F88293ED51FF32DF&profile=pass
+#EXTINF:-1 tvg-id="9945fc027ac7d3ea34b492158959499c" tvg-name="Radio Deejay" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/50087321?ticket=1520D792285CC3E37D2CDC8121D9CDA2B0776D79&profile=pass
+#EXTINF:-1 tvg-id="90782c9c39bd44693e840db546d1d7aa" tvg-name="Radio m2o" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/472676496?ticket=F5661A94CA32C1D149005D89FE30D3DB18A92A7E&profile=pass
+#EXTINF:-1 tvg-id="4d448a05b8a7a033580d0d83f94677df" tvg-name="RadioItaliaTrend" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/92947533?ticket=2A6A18ACEB4231D1A7D8C245ABB04658FBC8DFEF&profile=pass
+#EXTINF:-1 tvg-id="04227b670935db55bef9bb5d11c55186" tvg-name="RADIO CANALE ITALIA" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1736122884?ticket=1A150BB1E4B83DBE711ECD9813495CC1907ED4EF&profile=pass
+#EXTINF:-1 tvg-id="28bb32811a51e270b7d40a4fd1720f18" tvg-name="VOLAMI NEL CUORE" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/20101928?ticket=94F05A27CE85621F458215600BD57A58439DCE3D&profile=pass
+#EXTINF:-1 tvg-id="0188b908ff67e132353105e966ba5e63" tvg-name="RADIO VATICANA ITALIA" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/146376705?ticket=7D418E5CB30BBD6594A8093067163F1B1F069439&profile=pass
+#EXTINF:-1 tvg-id="ad48dab1b651b5ee1d4b4594186afd06" tvg-name="RTL 102.5" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/836389037?ticket=0CE41BB8140E658832DDAFA144B4F59E56CA77BC&profile=pass
+#EXTINF:-1 tvg-id="df1b9aa92c1000e1be2365cf1583cb54" tvg-name="RTL 102.5 NEWS" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/697965535?ticket=3E60BF63C28B7F671625DB470833B1EB537546EC&profile=pass
+#EXTINF:-1 tvg-id="11ae3b0d63a808a841e2011a9d86205b" tvg-name="RPL - LA TUA RADIO" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/222014993?ticket=DFEF7E3EEE8722DD438918B7EDB581EDECBEC1D1&profile=pass
+#EXTINF:-1 tvg-id="e34aa0a91911469e7dc75d5dc8c45d11" tvg-name="FRECCIA" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/698370787?ticket=2026489E0D2C7E5938723298A4EA39D5E6985F04&profile=pass
+#EXTINF:-1 tvg-id="c7548efed715cde8425a397922a9d8e1" tvg-name="R Italia SMI" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2123257031?ticket=E6DCC6FC5007D8A5A3785B2F8359EF690FE3E3F2&profile=pass
+#EXTINF:-1 tvg-id="cd34f1450883aa406677cb11d0178391" tvg-name="Radio R101" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1173435597?ticket=60C53C80F35F672DC87458E3EE0564397812EA55&profile=pass
+#EXTINF:-1 tvg-id="a2a579b9abe1e528eb8f9c67256fb5c6" tvg-name="Radio Monte Carlo" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/964273570?ticket=5733792D2FCF1A03B1C4B1F487B536AABF149DED&profile=pass
+#EXTINF:-1 tvg-id="2d31b83472fa851d6b7ea65e79cd4e78" tvg-name="Radio Studio Delta" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/884486445?ticket=AEE23DC7650CE84F6E05AFC43C10845036A8F88D&profile=pass
+#EXTINF:-1 tvg-id="ac728c7ccefe3f5de6bb99cc48809914" tvg-name="RADIO CANALE ITALIA" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/2089579180?ticket=C0597B1FE99CE30A3E5AD06DD822BAAC5E76AB59&profile=pass
+#EXTINF:-1 tvg-id="13565a47a2cdb311a25a89fa32cb2cf2" tvg-name="VOLAMI NEL CUORE" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1197102611?ticket=CC1C6F337C811158EC89A4DEB8A3DDF3D5CBAC10&profile=pass
+#EXTINF:-1 tvg-id="53a5f47498406fe469c9f5fb2e39abac" tvg-name="RADIO 105" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1962190163?ticket=82B4A00D13E36181BF48BC8779F1EBD8A305ACDF&profile=pass
+#EXTINF:-1 tvg-id="82a188e70066014fb871b340ebcab23c" tvg-name="VIRGIN RADIO" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1737007490?ticket=3915353CE338607924A6FB66C7C798780294F51D&profile=pass
+#EXTINF:-1 tvg-id="73bf8b2fe240c92079d37137b2ef0fb0" tvg-name="Radio Maria" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/797687667?ticket=116F2980C70D6AD3734B1E381AB0B71357AF92A3&profile=pass
+#EXTINF:-1 tvg-id="7dc77fb45471266e753c6f612f179b5e" tvg-name="Mediaset Play" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/880789373?ticket=1C1C1E1309A7E9B45D7E9260315BD224D17690A0&profile=pass
+#EXTINF:-1 tvg-id="3ba4dae4ec8192c4f25d9c3fd2014df1" tvg-name="LA7 on demand" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1692050491?ticket=87BFDEA6DAA3E1ECF9E72C7C3C058284E68837D2&profile=pass
+#EXTINF:-1 tvg-id="d4d8b59b929f1a13fcca89b368720298" tvg-name="LA7 Test" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/464902356?ticket=97BC26BC99DB6803C8A1797F1DB9E64B4A2D91CC&profile=pass
+#EXTINF:-1 tvg-id="a885e05e529c665c0985ed4e8328cfab" tvg-name="VH1 On Demand" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1591772584?ticket=E639135FAF38D7F61227D0609F8674A4809A6579&profile=pass
+#EXTINF:-1 tvg-id="e3c6fa673cdd7958096a164d6981c3a4" tvg-name="LA7 TEST" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1744488163?ticket=19ECA0D905A5E0D7DB13F6CAAC7D33B63233603E&profile=pass
+#EXTINF:-1 tvg-id="0ba17d040bd5eb9eb460da8f4b234e1d" tvg-name="Infinity" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/75342091?ticket=F53267650BB30CDD1699373E6DE7BD7BE666D878&profile=pass
+#EXTINF:-1 tvg-id="0fd05f511b14f3b5ab09d65b0736dd8d" tvg-name="LA7 TEST" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1365233679?ticket=40DDFCFF8F4A14106BED824F1FA0504EDF7AB7A7&profile=pass
+#EXTINF:-1 tvg-id="ac5931822cc8418a817820a233891932" tvg-name="LA7 Servizi on demand" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/36788652?ticket=0DC68B91BDE40414628E6F373B6D80ADA7CBE6C4&profile=pass
+#EXTINF:-1 tvg-id="951f6b8b9a55c7f6e69c1806f0394db5" tvg-name="VH1 On Demand" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/191569813?ticket=72DA52A36F1FBA6CDD7C83B4E90B07CE6E35286D&profile=pass
+#EXTINF:-1 tvg-id="de619bb154ddffb82ba4c6e484c912fa" tvg-name="LA7 TEST" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/832266718?ticket=0C52CF1B1F75F21E7BC7F1735867B072F683C488&profile=pass
+#EXTINF:-1 tvg-id="350071be269983816b9003814b50ce3b" tvg-name="LA7 TEST" group-title="TV"
+http://192.168.200.1:9981/stream/channelid/1047593013?ticket=C27FA05A285664E6F9C115290E85C5EC3C5ED179&profile=pass
